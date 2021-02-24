@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <Item ID="1" Name="t" Type="Other" Price="1" Count="2"/>
+  <Item ID="2" Name="t" Type="Other" Price="11" Count="3"/>
+  <Item ID="3" Name="t" Type="Other" Price="1" Count="4"/>
+  <Assert IsEmpty="false" ItemCount="9" Sum="0"/>
+</Items>
